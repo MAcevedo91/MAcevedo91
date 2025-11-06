@@ -78,7 +78,7 @@ Plataforma web que contribuye al cuidado ambiental de la región mediante:
 
 ## 📫 Conectemos
 
-[![LinkedIn](www.linkedin.com/in/marcelo-acevedo-272900310)
+[![LinkedIn] (www.linkedin.com/in/marcelo-acevedo-272900310)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAcevedo91)
 
