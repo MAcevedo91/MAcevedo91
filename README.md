@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Marcelo Acevedo
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Estudiante de **Ingeniería en Informática** (3er año) apasionado por el desarrollo frontend y la creación de soluciones tecnológicas que generen impacto real. Actualmente perfeccionando mis habilidades a través de cursos especializados en Frontend (Udemy) y Fullstack JavaScript (Talento Digital - SENCE Chile).
 
@@ -78,8 +78,7 @@ Plataforma web que contribuye al cuidado ambiental de la región mediante:
 
 ## 📫 Conectemos
 
-[![LinkedIn] (www.linkedin.com/in/marcelo-acevedo-272900310)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcelo-acevedo-272900310)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAcevedo91)
 
 ---
