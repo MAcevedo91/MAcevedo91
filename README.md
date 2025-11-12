@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Estudiante de **Ingeniería en Informática** (3er año) apasionado por el desarrollo frontend y la creación de soluciones tecnológicas que generen impacto real. Actualmente perfeccionando mis habilidades a través de cursos especializados en Frontend (Udemy) y Fullstack JavaScript (Talento Digital - SENCE Chile).
+Estudiante de **Ingeniería en Informática** apasionado por el desarrollo frontend y la creación de soluciones tecnológicas que generen impacto real. Actualmente perfeccionando mis habilidades a través de cursos especializados en Frontend y Fullstack JavaScript (Talento Digital - SENCE Chile).
 
 Me caracterizo por mi dedicación y enfoque detallista: cuando programo, me concentro intensamente hasta lograr que cada funcionalidad sea impecable y todo el sistema funcione correctamente.
 
