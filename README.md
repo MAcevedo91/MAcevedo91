@@ -30,7 +30,8 @@ APIs REST (integración y consumo)
 Bases de datos relacionales (nivel académico)
 
 
-## PROYECTOS EN DESARROLLO
+## PROYECTOS EN DESARROLLO <img width="512" height="512" alt="imagen" src="https://github.com/user-attachments/assets/5b0ef53d-c6cf-41c6-a52d-4f953cd56cc7" />
+
 
 ### Rocío Literario | Flutter + Firebase
 ### Aplicación móvil de gestión de biblioteca personal
@@ -73,7 +74,7 @@ Estado: Desplegado en Azure para fines académicos
 ## FORMACIÓN ACADÉMICA
 
 Ingeniería en Informática
-Universidad de La Serena | 3er año, 6to semestre | En curso
+Instituto Profesional INACAP | 3er año, 6to semestre | En curso
 Especialización Frontend y Fullstack JavaScript
 Talento Digital - SENCE Chile | Próximo inicio
 
