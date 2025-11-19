@@ -1,14 +1,14 @@
-# PERFIL PROFESIONAL
+# PERFIL PROFESIONAL 💼
 ## Desarrollador Fullstack Junior | Estudiante de Ingeniería en Informática
 
-## RESUMEN EJECUTIVO
+## RESUMEN EJECUTIVO 📋
 
 Estudiante de tercer año de Ingeniería en Informática con experiencia práctica en desarrollo de aplicaciones web y móviles. Especializado en construcción de MVPs funcionales con React, Flutter y Express.js. Más de 10 años de experiencia profesional previa en roles de liderazgo y operaciones bajo presión, aportando madurez, responsabilidad y capacidad de ejecución a equipos de desarrollo.
 Enfoque en soluciones funcionales, código limpio y aprendizaje continuo. Busco integrarme a equipos tech donde pueda contribuir con mis habilidades de desarrollo mientras continúo creciendo profesionalmente en un entorno colaborativo.
 Ubicación: La Serena, Chile
 Disponibilidad: Full-time, modalidad remota o híbrida
 
-## STACK TECNOLÓGICO
+## STACK TECNOLÓGICO 🛠️
 
 ### Frontend
 
@@ -30,7 +30,7 @@ APIs REST (integración y consumo)
 Bases de datos relacionales (nivel académico)
 
 
-## PROYECTOS EN DESARROLLO <img width="512" height="512" alt="imagen" src="https://github.com/user-attachments/assets/5b0ef53d-c6cf-41c6-a52d-4f953cd56cc7" />
+## PROYECTOS EN DESARROLLO 🌐
 
 
 ### Rocío Literario | Flutter + Firebase
@@ -71,14 +71,14 @@ Interfaz responsiva para dispositivos móviles
 Stack: React, Django, Leaflet/Mapbox
 Estado: Desplegado en Azure para fines académicos
 
-## FORMACIÓN ACADÉMICA
+## FORMACIÓN ACADÉMICA 🎓
 
 Ingeniería en Informática
 Instituto Profesional INACAP | 3er año, 6to semestre | En curso
 Especialización Frontend y Fullstack JavaScript
 Talento Digital - SENCE Chile | Próximo inicio
 
-## EXPERIENCIA PROFESIONAL RELEVANTE
+## EXPERIENCIA PROFESIONAL RELEVANTE 💡
 
 ### Múltiples roles en gastronomía | 2010 - 2023
 
@@ -111,7 +111,7 @@ Autonomía responsable: Capaz de resolver problemas de forma independiente cuand
 
 Busco una posición fullstack junior donde pueda aportar valor inmediato mientras desarrollo competencias más profundas en arquitectura de software y mejores prácticas de desarrollo.
 
-## OBJETIVOS DE DESARROLLO
+## OBJETIVOS DE DESARROLLO 🎯
 
 Corto plazo (6 meses):
 
@@ -125,7 +125,7 @@ Dominar patrones de diseño y arquitectura de software escalable
 Desarrollar expertise en testing automatizado y CI/CD
 Explorar especializaciones en análisis de datos o ciberseguridad aplicada
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub 📊
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MAcevedo91&show_icons=true&theme=radical)
 
@@ -133,7 +133,7 @@ Explorar especializaciones en análisis de datos o ciberseguridad aplicada
 
 ---
 
-## 📫 Conectemos
+## Conectemos 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-acevedo-272900310)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAcevedo91)
