@@ -17,7 +17,7 @@ Estudiante de séptimo semestre de Ingeniería Civil Informática con experienci
 
 ## 🚀 Proyectos Destacados
 
-### **Love Quiz**
+### [**Love Quiz**](https://love-quiz-theta.vercel.app/)
 
 _Plataforma web interactiva desarrollada con Next.js 16 y React 19._
 
