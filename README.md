@@ -1,8 +1,8 @@
 # Marcelo Acevedo Silva
 
-**Junior Developer | Estudiante de Ingeniería Civil Informática**
+**Junior Developer | Estudiante de Ingeniería Informática**
 
-Estudiante de séptimo semestre de Ingeniería Civil Informática con experiencia práctica en el desarrollo de aplicaciones web y móviles. Mi enfoque se centra en la construcción de soluciones escalables utilizando tecnologías modernas y la implementación de arquitecturas eficientes. Poseo una sólida capacidad de resolución de problemas y adaptabilidad, respaldada por una trayectoria previa en gestión operativa y liderazgo de equipos.
+Estudiante de séptimo semestre de Ingeniería Informática con experiencia práctica en el desarrollo de aplicaciones web y móviles. Mi enfoque se centra en la construcción de soluciones escalables utilizando tecnologías modernas y la implementación de arquitecturas eficientes. Poseo una sólida capacidad de resolución de problemas y adaptabilidad, respaldada por una trayectoria previa en gestión operativa y liderazgo de equipos.
 
 ---
 
@@ -62,7 +62,7 @@ _Proyecto de gestión de residuos con arquitectura en la nube._
 
 ## 🎓 Formación Académica
 
-- **Ingeniería Civil Informática** | Instituto Profesional INACAP (7° semestre en curso).
+- **Ingeniería Informática** | Instituto Profesional INACAP (7° semestre en curso).
 - **Bootcamp Full Stack JavaScript** | Talento Digital para Chile (SENCE).
 - **Especialización FrontEnd Web Developer** | Udemy.
 
