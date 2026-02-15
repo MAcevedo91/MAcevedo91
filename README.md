@@ -1,77 +1,75 @@
-Junior Developer | Estudiante de Ingeniería Civil Informática
+# Marcelo Acevedo Silva
+
+**Junior Developer | Estudiante de Ingeniería Civil Informática**
 
 Estudiante de séptimo semestre de Ingeniería Civil Informática con experiencia práctica en el desarrollo de aplicaciones web y móviles. Mi enfoque se centra en la construcción de soluciones escalables utilizando tecnologías modernas y la implementación de arquitecturas eficientes. Poseo una sólida capacidad de resolución de problemas y adaptabilidad, respaldada por una trayectoria previa en gestión operativa y liderazgo de equipos.
 
-Perfil Técnico
-Lenguajes: JavaScript (ES6+), TypeScript, Python, Dart, Java, SQL.
+---
 
+## 🛠️ Perfil Técnico
 
-Frontend & Mobile: React 19, Next.js 16, Flutter, Tailwind CSS, HTML5.
-+3
+- **Lenguajes:** JavaScript (ES6+), TypeScript, Python, Dart, Java, SQL.
+- **Frontend & Mobile:** React 19, Next.js 16, Flutter, Tailwind CSS, HTML5.
+- **Backend & Bases de Datos:** Node.js, Express, PostgreSQL, Supabase, SQLite, Firebase.
+- **Infraestructura & Herramientas:** Git, Azure (Serverless), Linux, Metodologías Ágiles (Scrum).
 
+---
 
-Backend & Bases de Datos: Node.js, Express, PostgreSQL, Supabase, SQLite, Firebase.
-+3
+## 🚀 Proyectos Destacados
 
-Infraestructura & Herramientas: Git, Azure (Serverless), Linux, Metodologías Ágiles (Scrum).
+### **Love Quiz**
 
-Proyectos Destacados
-Love Quiz
-Plataforma web interactiva desarrollada con Next.js 16 y React 19.
-+1
+_Plataforma web interactiva desarrollada con Next.js 16 y React 19._
 
-Implementación de Supabase para autenticación y base de datos en tiempo real.
+- Implementación de **Supabase** para autenticación y base de datos en tiempo real.
+- Diseño responsivo utilizando **Tailwind CSS** y generación dinámica de resultados.
 
-Diseño responsivo utilizando Tailwind CSS y generación dinámica de resultados.
-+1
+### **Rocío Literario**
 
-Rocío Literario
-Aplicación móvil nativa para la gestión de bibliotecas personales desarrollada en Flutter y Dart.
+_Aplicación móvil nativa para la gestión de bibliotecas personales desarrollada en Flutter y Dart._
 
-Gestión de base de datos local mediante SQLite y persistencia de datos offline.
+- Gestión de base de datos local mediante **SQLite** y persistencia de datos offline.
+- Integración de hardware para escaneo de códigos de barras y captura de imágenes.
 
-Integración de hardware para escaneo de códigos de barras y captura de imágenes.
+### **Flowly**
 
-Flowly
-Sistema de gestión administrativa y de reservas basado en el stack PERN (PostgreSQL, Express, React, Node.js).
+_Sistema de gestión administrativa y de reservas basado en el stack PERN (PostgreSQL, Express, React, Node.js)._
 
-Desarrollo de API RESTful con autenticación segura mediante JWT.
+- Desarrollo de API RESTful con autenticación segura mediante **JWT**.
+- Diseño de base de datos relacional para el control de horarios y disponibilidad de salas.
 
-Diseño de base de datos relacional para el control de horarios y disponibilidad de salas.
+### **Eco-Alerta**
 
-Eco-Alerta
-Proyecto de gestión de residuos con arquitectura en la nube.
+_Proyecto de gestión de residuos con arquitectura en la nube._
 
-Diseño de infraestructura serverless en Azure y modelado de procesos bajo estándar BPMN.
+- Diseño de infraestructura serverless en **Azure** y modelado de procesos bajo estándar BPMN.
+- Implementación de lógica de análisis de datos utilizando **Python**.
 
-Implementación de lógica de análisis de datos utilizando Python.
+---
 
-Experiencia Profesional
-Junior Developer | 176Lab Software Factory (La Serena, Chile).
-+1
+## 💼 Experiencia Profesional
 
-Desarrollo y mantenimiento de aplicaciones web con stacks modernos.
+**Junior Developer | 176Lab Software Factory** (La Serena, Chile)
 
-Gestión de versiones con Git y participación en procesos de revisión de código.
+- Desarrollo y mantenimiento de aplicaciones web con stacks modernos.
+- Gestión de versiones con Git y participación en procesos de revisión de código.
 
+**Trayectoria en Gestión Operativa y Logística (2010 – 2023)**
 
-Trayectoria en Gestión Operativa y Logística (2010 – 2023).
-+1
+- Liderazgo de equipos y administración de recursos en entornos de alta demanda.
 
-Liderazgo de equipos y administración de recursos en entornos de alta demanda.
+---
 
-Formación Académica
-Ingeniería Civil Informática | Instituto Profesional INACAP (7° semestre en curso).
+## 🎓 Formación Académica
 
-Bootcamp Full Stack JavaScript | Talento Digital para Chile (SENCE).
+- **Ingeniería Civil Informática** | Instituto Profesional INACAP (7° semestre en curso).
+- **Bootcamp Full Stack JavaScript** | Talento Digital para Chile (SENCE).
+- **Especialización FrontEnd Web Developer** | Udemy.
 
-Especialización FrontEnd Web Developer | Udemy.
+---
 
-Contacto
+## 📫 Contacto
 
-LinkedIn: linkedin.com/in/marcelo-acevedo-272900310 
-
-
-Email: mrcl.ao.sa@gmail.com 
-
-Ubicación: La Serena, Chile
+- **LinkedIn:** [linkedin.com/in/marcelo-acevedo-272900310](https://linkedin.com/in/marcelo-acevedo-272900310)
+- **Email:** [mrcl.ao.sa@gmail.com](mailto:mrcl.ao.sa@gmail.com)
+- **Ubicación:** La Serena, Chile
