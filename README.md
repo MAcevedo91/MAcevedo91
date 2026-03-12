@@ -60,7 +60,7 @@ _Proyecto de gestión de residuos con arquitectura en la nube._
 
 ---
 
-## 🎓 Formación Académica
+## Formación Académica
 
 - **Ingeniería Informática** | Instituto Profesional INACAP (7° semestre en curso).
 - **Bootcamp Full Stack JavaScript** | Talento Digital para Chile (SENCE).
