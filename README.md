@@ -6,7 +6,7 @@ Estudiante de séptimo semestre de Ingeniería Informática con experiencia prá
 
 ---
 
-## 🛠️ Perfil Técnico
+## Perfil Técnico
 
 - **Lenguajes:** JavaScript (ES6+), TypeScript, Python, Dart, Java, SQL.
 - **Frontend & Mobile:** React 19, Next.js 16, Flutter, Tailwind CSS, HTML5.
@@ -15,7 +15,7 @@ Estudiante de séptimo semestre de Ingeniería Informática con experiencia prá
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 ### [**Love Quiz**](https://love-quiz-theta.vercel.app/)
 
@@ -47,7 +47,7 @@ _Proyecto de gestión de residuos con arquitectura en la nube._
 
 ---
 
-## 💼 Experiencia Profesional
+## Experiencia Profesional
 
 **Junior Developer | 176Lab Software Factory** (La Serena, Chile)
 
@@ -68,7 +68,7 @@ _Proyecto de gestión de residuos con arquitectura en la nube._
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 - **LinkedIn:** [linkedin.com/in/marcelo-acevedo-272900310](https://linkedin.com/in/marcelo-acevedo-272900310)
 - **Email:** [mrcl.ao.sa@gmail.com](mailto:mrcl.ao.sa@gmail.com)
