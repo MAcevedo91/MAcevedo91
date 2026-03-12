@@ -45,6 +45,14 @@ _Proyecto de gestión de residuos con arquitectura en la nube._
 - Diseño de infraestructura serverless en **Azure** y modelado de procesos bajo estándar BPMN.
 - Implementación de lógica de análisis de datos utilizando **Python**.
 
+### [**Capsule Studio**](https://capsule-studio.vercel.app/)
+
+_Landing page comercial de alto rendimiento._ 
+
+- Construida como SPA (Single Page Application) usando React, Vite y Tailwind CSS v4.
+- Implementación de SEO técnico avanzado e internacionalización mediante datos estructurados JSON-LD y Schema.org.
+- Diseño UI/UX moderno con animaciones al hacer scroll, modo oscuro nativo e integración de peticiones asíncronas vía Formspree.
+
 ---
 
 ## Experiencia Profesional
